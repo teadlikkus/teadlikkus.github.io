@@ -3,8 +3,9 @@ ja sissejuhatus tulevastesse postitustesse
 
 ### Uni
 
-### Toit
-- [ ] kohalik & plastivaba toit
+### Kohalik & plastivaba toit
+- [ ] toidukursuse järgi to-do
+- [ ] toidu kaust sorteerida
 
 ### Info
 Blogi
