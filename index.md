@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Kui me tahame maailma paremaks muuta, on vaja olla teadlik probleemidest ja võimalikest lahendustest. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Iga muutus algab meist endist.
