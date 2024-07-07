@@ -4,7 +4,6 @@ tag: to-do
 
 
 ## Probleemide (projektide) nimekiri
-ehk sissejuhatus tulevastesse postitustesse
 
 ### Uni
 
