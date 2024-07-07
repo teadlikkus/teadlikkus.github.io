@@ -1,4 +1,8 @@
-## Probleemide (projektide) nimekiri
+---
+layout: post
+title:  "Probleemide (projektide) nimekiri"
+---
+# Probleemide (projektide) nimekiri
 ja sissejuhatus tulevastesse postitustesse
 
 ### Uni
