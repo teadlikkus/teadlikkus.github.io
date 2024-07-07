@@ -5,16 +5,11 @@ tag: to-do
 
 ## Probleemide (projektide) nimekiri
 
-### Uni
+### Uni - oluline mulle & planeedile
 
 ### Kohalik & plastivaba toit
 - toidukursuse järgi to-do
 - toidu kaust sorteerida
 
-### Info
-Blogi
-- tume teema
-- see postitus leheks
-- arhiiv korda
-- sots meedia
-- seo
+### Infoteh
+- staatiline veeb
