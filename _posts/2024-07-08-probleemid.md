@@ -7,5 +7,9 @@ ja sissejuhatus tulevastesse postitustesse
 - [ ] kohalik & plastivaba toit
 
 ### Info
-- [ ] blogi tume teema
-- [ ] blogi "mõju"
+Blogi
+- [ ] tume teema
+- [ ] see postitus leheks
+- [ ] arhiiv korda
+- [ ] sots meedia
+- [ ] seo
