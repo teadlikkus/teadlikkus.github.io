@@ -1,5 +1,5 @@
 ---
-tags: to-do elumõte ettevõtlus majandus
+tag: to-do
 ---
 
 ## Probleem kui elumõte või ettevõtlusidee
